@@ -1,0 +1,6 @@
+[submodule "CCDC-Tryouts-Missile_Silo"]
+	path = CCDC-Tryouts-Missile_Silo
+	url = https://github.com/Shadowclaw844/CCDC-Tryouts-Missile_Silo
+[submodule "Week-4---Intro-to-Linux"]
+	path = Week-4---Intro-to-Linux
+	url = https://github.com/Shadowclaw844/Week-4---Intro-to-Linux
